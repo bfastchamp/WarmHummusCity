@@ -11,9 +11,9 @@
    	<ul class = "ul_nav">
    		<li class = "li_nav"><a class = "li_a_nav" href = "#sponsors"> FREE HUMMUS CLICK HERE</a></li>
    		<!--<li class = "li_nav"><a class = "li_a_nav" href = "#sponsors" id= "t_horse"> FREE <span>HUMMUS CLICK HERE</span></a></li>-->
-   		<li class = "li_nav"><a class = "li_a_nav" href = "#sponsors"> &#128274 Grownup Zone</a></li>
+   		<li class = "li_nav"><a class = "li_a_nav" href = "#sponsors"> &#128274 Grown Up Zone</a></li>
 			<li class = "li_nav"><a class = "li_a_nav" href = "#sponsors"> Report Archive</a></li>
-			<li class = "li_nav"><a class = "li_a_nav" href = "#sponsors"> Sponsors</a></li>
+			<li class = "li_nav"><a class = "li_a_nav" href = "sponsors.html"> Sponsors</a></li>
 			<li class = "li_nav"><a class = "li_a_nav" href = "#sponsors"> Humorous Hummus</a></li>
 			<li class = "li_nav"><a class = "li_a_nav" href = "#sponsors"> Feder Friendly Theme</a></li>
    	</ul>
