@@ -1,0 +1,89 @@
+body {
+	    background-image: url("https://imgur.com/HGf29YT.jpg");
+	    background-position: 50% 50%;
+	    background-repeat: repeat;
+}
+
+.hum_pun1 {
+    color: white;
+    text-align: center;
+    padding-top: 0px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-shadow: 5px 2px #B9B9B9;
+    font-size: 500%;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+audio { 
+   display:none;
+}
+
+.twitter-timeline {
+	text-align: center;
+}
+
+.ul_nav {
+	 list-style: none;
+	 margin: 0;
+	 padding: 0;
+	 overflow: hidden;
+	 background-color: #B9B9B9;
+}
+
+.li_nav {
+	float: left;
+}
+
+.li_a_nav{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.li_a_nav:hover{
+	background-color: #848484;
+}
+	
+/*#t_horse{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+#t_horse span{
+	/*display: none;
+	background-color: #53b700;*
+	visibility: none;
+}
+
+#t_horse span:hover{
+	visibility: visible;
+	background-color: #53b700;
+	content: "VIRUSES!";
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
