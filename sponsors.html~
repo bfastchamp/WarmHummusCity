@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <link rel="stylesheet" href="style.css" type="text/css" />
+      <link rel="stylesheet" href="sponsors_style.css" type="text/css" />
       <title>WarmHummus.City</title>
          <audio autoplay loop>
          <source src="ducktales_midi.mp3" type="audio/mpeg">
@@ -18,11 +18,16 @@
 			<li class = "li_nav"><a class = "li_a_nav" href = "#sponsors"> Feder Friendly Theme</a></li>
    	</ul>
       <canvas id="canvas" style="display:none;" resize></canvas>
-      <img src="img/gasper_ad.png">  
-      <img src="img/mintx_ad.png" style="width:400px;height:200px">  
-      <img src="img/ratice_ad.png">
-      <img src="img/burrowrx_ad.png">
-		<img src="img/ratsmokeoil_ad.png">
-		<img src="img/blackberry_ad.png">
+      <div class="single_ad">
+      	<img src="img/gasper_ad.png"> 
+      </div>
+ 		<div class="double_ad">
+ 			<img src="img/burrowrx_ad.png">
+      	<img src="img/blackberry_ad.png">
+      </div>
+      <!--<img src="img/ratice_ad.png">
+      <img src="img/mintx_ad.png" > 
+		<img src="img/ratsmokeoil_ad.png">-->
+		
    </body>
 </html>
