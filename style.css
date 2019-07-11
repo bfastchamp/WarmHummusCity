@@ -1,5 +1,5 @@
 body {
-	background-image: url("/img/smaller.jpg");
+	background-image: url("img/background.jpg");
 	background-position: 50% 50%;
 	background-repeat: repeat;
 }
